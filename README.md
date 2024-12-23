@@ -3,7 +3,7 @@
 ### About Me 🌟  
 I'm an aspiring **Fullstack Developer** passionate about designing and building websites and software that not only function flawlessly but also look stunning. My goal is to combine creativity with technical expertise to deliver exceptional user experiences.  
 
-- 🌱 **Currently Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS, and TypeScript.  
+- 🌱 **Currently Learning:** HTML5, CSS3(Bootstrap 5), Javascript, PHP(Laravel), SQL(MySQL)
 - 💻 **Skills I'm Developing:** Responsive web design, backend API development, and database management.  
 - 🎯 **Goal:** To master fullstack development and contribute to impactful projects.  
 
@@ -18,7 +18,7 @@ I'm an aspiring **Fullstack Developer** passionate about designing and building 
 
 ### How to Connect 📬  
 - **GitHub Projects**: Check out my repositories to see what I’m working on!  
-- **Social Media**: Follow me on Instagram [@your_username](https://instagram.com/your_username) to connect and share ideas.  
+- **Social Media**: Follow me on Instagram [@your_username](https://www.instagram.com/noblez.nest/) to connect and share ideas.  
 
 ---
 
