@@ -18,7 +18,7 @@ I'm an aspiring **Fullstack Developer** passionate about designing and building 
 
 ### How to Connect 📬  
 - **GitHub Projects**: Check out my repositories to see what I’m working on!  
-- **Social Media**: Follow me on Instagram [@your_username](https://www.instagram.com/noblez.nest/) to connect and share ideas.  
+- **Social Media**: Follow me on Instagram [@noblez.nest](https://www.instagram.com/noblez.nest/) to connect and share ideas.  
 
 ---
 
